@@ -1,0 +1,11 @@
+
+Dim_Location has the attribute postal code, states which is Null for some customers so the complete analysis of the sales by the postal codes, and states is not possible. In order to handle the Null values, we could assign the values to postal codes and states which might give us the wrong analysis. The most granular attribute we can perform the analysis on the basis is the city of Customer.
+
+Among the tracks, Rock is the most popular genre purchased by people and Opera is the least purchased genre. This trend explains the inclination of people towards Rock or different genres. So, to increase the sales there should be more rock music generated. There can be hike in the prices of rock music to get the profit. The less popular music may have decrease in the prices.
+
+I could generate a year to year report and quarter to quarter sales report which will tell me the profit/loss for the following years. There can be a daily based analysis which can tell me if the sales are most on weekends, or weekdays, when the site could crash, or when should I have more employees required.
+
+Most of the customer who purchased the tracks are based in Berlin, London, MountainView, etc. whereas the least purchased tracks are in Banglore. 
+
+
+I could see the most purchased tracks and get more stock of those tracks. The tracks with less sales should be sold out from the stock with reduced price.
