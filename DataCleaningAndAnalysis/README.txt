@@ -1,25 +1,3 @@
-
-
-
-For First part of the assignment (transform.py, transformed.csv):
-
-1. I read the wikipedia page and parsed it through BeautifulSoup.
-
-2. Searched for all the tables and took the required table as 'table'
-
-3. Searched for the first row in the table, stored the 'th' into a list and appended the list into 'data'(final extracted list)
-
-4. For all the rest of rows, performed the following action:
-	a. Parsed all the columns of each row until the date the matches took place.
-	b. For each column, extracted the data according to the requirement.
-	c. Appended the data of a single row into a list 'lst'
-	d. Appended the 'lst' to 'data'
-
-5. Created a csv file 'transformed.csv' and wrote 'data' to it.
-
-
-For second part of the assignment:
-
 (clean.py, cleaned.txt)
 
 1. Read the file from command line
